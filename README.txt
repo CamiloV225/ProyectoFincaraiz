@@ -1,4 +1,4 @@
-# Modelo de busqueda de apartamentos a partir de la información de Fincaraiz.com.co
+## Modelo de busqueda de apartamentos a partir de la información de Fincaraiz.com.co
 
 - Contexto
 Fincaraíz.com.co es el líder en términos de usuarios, clientes y contenido inmobiliario en Colombia. Asimismo, posee una gran variedad de inmuebles como casas, apartamentos, locales, entre otros. Por lo que es adecuado para el desarrollo de este proyecto de datos poder escoger cualquier tipo de inmueble y así extraer, tratar, transformar y presentar la información.
