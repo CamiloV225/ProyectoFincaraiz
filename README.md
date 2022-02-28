@@ -10,7 +10,7 @@ Dentro de esta investigación al estilo desk research, se encontraron varios art
 
 ### Justificación
 
-El presente proyecto busca utilizar los datos de las viviendas que se encuentran en Fincaraiz.com.co, específicamente apartamentos para agilizar los procesos de búsqueda, teniendo en cuenta dos factores; la alta demanda de este tipo de inmueble en los últimos años en el país y  la veracidad de la información que se brinda en las publicaciones de estos.; 
+El presente proyecto busca utilizar los datos de las viviendas que se encuentran en Fincaraiz.com.co, específicamente apartamentos para agilizar los procesos de búsqueda, teniendo en cuenta dos factores; la alta demanda de este tipo de inmueble en los últimos años en el país y  la veracidad de la información que se brinda en las publicaciones de estos. 
 
 ### Pregunta Problema
 
