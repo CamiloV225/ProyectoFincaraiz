@@ -1,4 +1,5 @@
 # Modelo de busqueda de apartamentos a partir de la información de Fincaraiz.com.co
+=============
 
 ### Contexto
 
@@ -6,7 +7,7 @@ Fincaraíz.com.co es el líder en términos de usuarios, clientes y contenido in
 
 ### Antecedentes
 
-Dentro de esta investigación al estilo desk research, se encontraron varios artículos. Sin embargo, para mejor clasificación, denominación y entendimiento, se decidió que sería mejor denominarlas de dos formas: Aquellos que sirven para  conocer el manejo de la información; y aquellos que están para la valorización de los inmuebles.;
+Dentro de esta investigación al estilo desk research, se encontraron varios artículos. Sin embargo, para mejor clasificación, denominación y entendimiento, se decidió que sería mejor denominarlas de dos formas: Aquellos que sirven para  conocer el manejo de la información; y aquellos que están para la valorización de los inmuebles.
 
 ### Justificación
 
