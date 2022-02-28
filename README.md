@@ -1,5 +1,4 @@
 # Modelo de busqueda de apartamentos a partir de la información de Fincaraiz.com.co
-=============
 
 ### Contexto
 
