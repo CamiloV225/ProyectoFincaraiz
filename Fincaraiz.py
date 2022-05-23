@@ -28,7 +28,6 @@ def aptos (nombre,barrio,estado,precio,por,codigo,estrato,estadoApto,habitacione
     archivo(apto)
     apto.clear()  
 
-
 def webScraping(driver):
     for pag in range(1,41):
         driver.get(f'https://www.fincaraiz.com.co/apartamentos/venta/zona-sur/cali?pagina={pag}') 
