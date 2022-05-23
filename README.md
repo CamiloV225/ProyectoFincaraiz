@@ -10,7 +10,7 @@ Dentro de esta investigación al estilo desk research, se encontraron varios art
 
 ### Justificación
 
-El presente proyecto busca utilizar los datos de los inmuebles que se encuentran en Fincaraiz.com.co, específicamente apartamentos en venta ubicados en la zona sur de la ciudad de Cali, para agilizar los procesos de búsqueda, teniendo en cuenta dos factores; la alta demanda de este tipo de inmueble en los últimos años en el país y  la veracidad de la información que se brinda en las publicaciones de estos.
+El presente proyecto busca utilizar los datos de los inmuebles que se encuentran en Fincaraiz, específicamente apartamentos en venta ubicados en la zona sur de la ciudad de Cali.  Puesto que la búsqueda de este tipo de inmueble es altamente demandada, se requiere desarrollar un modelo que facilite el proceso que en ocasiones puede llegar a ser complejo. A partir de estos factores; la alta demanda de este tipo de inmueble en los últimos años  y  la veracidad de la información que se brinda en las publicaciones de estos.
 
 ### Pregunta Problema
 
